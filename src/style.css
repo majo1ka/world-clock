@@ -34,7 +34,7 @@ select {
     box-shadow: 10px 10px 36px 44px rgba(0, 0, 0, 0.75);
     border-radius: 12px;
 }
-.cities {
+.city {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
